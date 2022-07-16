@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/home"/>
+    <item android:title="Catalog"
+        android:icon="@drawable/icon_catalog"/>
+    <item android:title="Category"
+        android:icon="@drawable/category"/>
+    <item android:title="Collection"
+        android:icon="@drawable/icon_collection"/>
+    <item android:title="Products"
+        android:icon="@drawable/group"/>
+    <item android:title="Wishlist"
+        android:icon="@drawable/icons_like"/>
+    <item android:title="Abut Us" />
+    <item android:title="Log Out" />
+</menu>

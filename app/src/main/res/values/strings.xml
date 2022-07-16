@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">E com</string>
+    <string name="signin_with_facebook">SignIN with facebook</string>
+    <string name="or">-OR-</string>
+    <string name="fusion">Fusion</string>
+    <string name="superstore">SuperStore</string>
+    <string name="sing_in">SIGN IN</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="sinup_to_get_started_and_experience_n_create_shopping_deals">SinUP to get started and experience\n create shopping deals</string>
+    <string name="welcome">Welcome</string>
+    <string name="signin_with_google">SignIN with google</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="signup">SignUp</string>
+    <string name="get_started">GET STARTED</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_voucher_code">Enter Voucher Code</string>
+    <string name="red_dress">Red dress</string>
+    <string name="woman">Woman</string>
+    <string name="_15">$15</string>
+    <string name="_10">10</string>
+    <string name="_0_0">1</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="forget_password">Forget password ?</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="email">Email</string>
+    <string name="next">NEXT</string>
+    <string name="back">BACK</string>
+    <string name="shopping_address">Shopping Address</string>
+    <string name="payment">Payment</string>
+    <string name="change">Change</string>
+    <string name="summary">Summary</string>
+    <string name="address_frm_payment_fragment">Address frm Payment Fragment</string>
+    <string name="master_card">Master Card</string>
+    <string name="_4543">**** **** **** 4543</string>
+</resources>
